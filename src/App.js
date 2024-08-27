@@ -1,9 +1,11 @@
 import './App.css';
+import AddItem from './Components/AddItem';
+
 
 function App() {
   return (
-    <div className="App">
-      
+    <div >
+      <AddItem/>
     </div>
   );
 }

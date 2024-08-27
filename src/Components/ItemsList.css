@@ -1,0 +1,20 @@
+.cont{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+.item-box{
+    background: #34353e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40rem;
+    height: 4rem;
+    font-size: 1.3rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.item-box i{
+    font-size: 1.7rem;
+    cursor: pointer;
+}
