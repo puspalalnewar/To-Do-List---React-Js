@@ -1,1 +1,1 @@
-# This is a To Do List web application using React Js.
+# This is a To Do List web-application using React Js.
